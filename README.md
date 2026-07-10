@@ -2,17 +2,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0142-linked-list-cycle-ii](https://github.com/SoumyaOtta/leetcode_/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0142-linked-list-cycle-ii](https://github.com/SoumyaOtta/leetcode_/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/SoumyaOtta/leetcode_/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0142-linked-list-cycle-ii](https://github.com/SoumyaOtta/leetcode_/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/SoumyaOtta/leetcode_/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/SoumyaOtta/leetcode_/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Array
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/SoumyaOtta/leetcode_/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/SoumyaOtta/leetcode_/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/SoumyaOtta/leetcode_/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
